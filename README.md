@@ -1,6 +1,6 @@
 # PCA: EXP-1  SUM ARRAY GPU
-### Name: RONICK AAKSHATH P
-### Reg. No.: 212222240084
+### Name: AMRUTHA VARSHNI BS
+### Reg. No.: 212222040007
 ### Exp. No.: 01
 ### Date: 
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
